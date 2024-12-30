@@ -17,6 +17,7 @@ NOTE: anything with 3 astericks (```*```) before it is not real syntax, remove i
         ],
         "keyword": "modname", *** Place whatever the most used part of a filename is here, so if you have "modname" in all your release names, put it here
         "type": "Mod", *** "Mod" or "Library"
-        "repo": "KyleTheScientist/Bark" *** Git repository
+        "repo": "KyleTheScientist/Bark", *** Git repository
+        "download": "https://link.com/link/link/link", ** Download link to your latest release (.dll or .zip)
 },
 ```
