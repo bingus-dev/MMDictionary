@@ -54,6 +54,16 @@
         "repo": "Loafiat/Newtilla"
     },
     {
+        "name": "Bepinject",
+        "author": "Auros",
+        "filenames": [
+            "Bepinject.dll"
+        ],
+        "keyword": "Bepinject",
+        "type": "Library",
+        "repo": "Auros/Bepinject"
+    },
+    {
         "name": "Extenject",
         "author": "Mathijs-Bakker",
         "filenames": [
@@ -67,10 +77,11 @@
         "name": "Zenject",
         "author": "modesttree",
         "filenames": [
-            "Zenject.dll"
+            "Zenject.dll",
+            "Zenject-usage.dll"
         ],
         "keyword": "Zenject",
         "type": "Library",
-      "repo": "modesttree/Zenject"
+        "repo": "modesttree/Zenject"
     },
 ]
