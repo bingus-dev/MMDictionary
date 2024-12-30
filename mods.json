@@ -69,7 +69,7 @@
     },
     {
         "name": "GorillaShirts",
-        "author": "developer9998",
+        "author": "Dev9998",
         "filenames": [
             "GorillaShirts.dll"
         ],
@@ -80,7 +80,7 @@
     },
     {
         "name": "GorillaRichPrescence [BETA]",
-        "author": "developer9998",
+        "author": "Dev9998",
         "filenames": [
             "GorillaRichPresence.dll"
         ],
@@ -91,7 +91,7 @@
     },
     {
         "name": "Index",
-        "author": "ZayneTheDev",
+        "author": "Zayne",
         "filenames": [
             "Index.dll"
         ],
@@ -113,7 +113,7 @@
     },
     {
         "name": "Grate",
-        "author": "The-Graze",
+        "author": "Graze",
         "filenames": [
             "Grate.dll"
         ],
@@ -123,14 +123,14 @@
         "download": "https://github.com/The-Graze/Grate/releases/download/1.6.0/Grate.dll"
     },
     {
-        "name": "BepInEx",
-        "author": "BepInEx Authors",
+        "name": "HoneyLib",
+        "author": "Buzz",
         "filenames": [
-            "PLACEHOLDER_FILE_NAME_DO_NOT_REMOVE.dll"
+            "HoneyLib.dll"
         ],
-        "keyword": "BepInEx",
+        "keyword": "HoneyLib",
         "type": "Library",
-        "repo": "BepInEx/BepInEx",
-        "download": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
+        "repo": "BzzzThe18th/HoneyLib",
+        "download": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.0/HoneyLib-v1.1.0.zip"
     },
 ]
