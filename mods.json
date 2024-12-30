@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Bark",
+        "author": "KyleTheScientist",
+        "filenames": [
+            "Bark.dll",
+            "Bark-1.0.0.dll",
+            "Bark-1.5.1.dll"
+        ],
+        "keyword": "Bark",
+        "type": "Mod",
+        "repo": "KyleTheScientist/Bark"
+    },
+    {
+        "name": "Utilla",
+        "author": "legoandmars",
+        "filenames": [
+            "Utilla.dll"
+        ],
+        "keyword": "Utilla",
+        "type": "Library",
+        "repo": "legoandmars/Utilla"
+    },
+  {
+        "name": "B-Pro",
+        "author": "BuzzThe18th",
+        "filenames": [
+            "B-Pro.dll",
+            "tcxaEl9.dll",
+            "BeePro.dll"
+        ],
+        "keyword": "BeePro",
+        "type": "Mod",
+        "repo": "EXC_PRIVATE"
+    },
+    {
+        "name": "Yizzi's Camera Mod V2",
+        "author": "Yizzi",
+        "filenames": [
+            "YizziCamModV2.dll"
+        ],
+        "keyword": "YizziCamMod",
+        "type": "Mod",
+        "repo": "Yizzii/YizziCamModV2"
+    },
+    {
+        "name": "Newtilla",
+        "author": "Loafiat",
+        "filenames": [
+            "Newtilla.dll"
+        ],
+        "keyword": "Newtilla",
+        "type": "Library",
+        "repo": "Loafiat/Newtilla"
+    },
+    {
+        "name": "Extenject",
+        "author": "Mathijs-Bakker",
+        "filenames": [
+            "Extenject.dll"
+        ],
+        "keyword": "Extenject",
+        "type": "Library",
+        "repo": "Mathijs-Bakker/Extenject"
+    },
+  {
+        "name": "Zenject",
+        "author": "modesttree",
+        "filenames": [
+            "Zenject.dll"
+        ],
+        "keyword": "Zenject",
+        "type": "Library",
+      "repo": "modesttree/Zenject"
+    },
+]
