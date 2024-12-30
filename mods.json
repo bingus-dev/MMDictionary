@@ -132,5 +132,5 @@
         "type": "Essential",
         "repo": "BepInEx/BepInEx",
         "download": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
-    },
+    }
 ]
