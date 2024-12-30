@@ -24,17 +24,6 @@
         "download": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
     },
     {
-        "name": "Yizzi's Camera Mod V2",
-        "author": "Yizzi",
-        "filenames": [
-            "YizziCamModV2.dll"
-        ],
-        "keyword": "YizziCamMod",
-        "type": "Mod",
-        "repo": "Yizzii/YizziCamModV2",
-        "download": "https://github.com/Yizzii/YizziCamModV2/releases/download/beta1.0.8/YizziCamModV2.dll"
-    },
-    {
         "name": "Newtilla",
         "author": "Loafiat",
         "filenames": [
