@@ -79,17 +79,6 @@
         "download": "https://github.com/developer9998/GorillaShirts/releases/download/1.1.7/GorillaShirts.dll"
     },
     {
-        "name": "GorillaRichPrescence [BETA]",
-        "author": "Dev9998",
-        "filenames": [
-            "GorillaRichPresence.dll"
-        ],
-        "keyword": "GorillaRichPresence",
-        "type": "Mod",
-        "repo": "developer9998/GorillaRichPresence",
-        "download": "https://github.com/developer9998/GorillaRichPresence/archive/refs/heads/main.zip"
-    },
-    {
         "name": "Index",
         "author": "Zayne",
         "filenames": [
