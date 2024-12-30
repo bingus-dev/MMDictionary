@@ -19,7 +19,7 @@
             "Utilla.dll"
         ],
         "keyword": "Utilla",
-        "type": "Library",
+        "type": "Essential",
         "repo": "legoandmars/Utilla",
         "download": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
     },
@@ -41,7 +41,7 @@
             "Newtilla.dll"
         ],
         "keyword": "Newtilla",
-        "type": "Library",
+        "type": "Essential",
         "repo": "Loafiat/Newtilla",
         "download": "https://github.com/Loafiat/Newtilla/releases/download/1.1.0/Newtilla.dll"
     },
