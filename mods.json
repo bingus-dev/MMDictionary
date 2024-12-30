@@ -122,7 +122,7 @@
         "repo": "The-Grate/Graze",
         "download": "https://github.com/The-Graze/Grate/releases/download/1.6.0/Grate.dll"
     },
-    
+    {
         "name": "BepInEx",
         "author": "BepInEx Authors",
         "filenames": [
@@ -132,5 +132,5 @@
         "type": "Essential",
         "repo": "BepInEx/BepInEx",
         "download": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.2/BepInEx_win_x64_5.4.23.2.zip"
-    }
+    },
 ]
