@@ -111,4 +111,15 @@
         "repo": "9r0undZ3R0/GroundZ3R0s-CamGUI",
         "download": "https://github.com/9r0undZ3R0/GroundZ3R0s-CamGUI/releases/download/1.0/GroundZ3R0s.CamGUI.dll"
     },
+    {
+        "name": "Grate",
+        "author": "The-Graze",
+        "filenames": [
+            "Grate.dll"
+        ],
+        "keyword": "Grate",
+        "type": "Mod",
+        "repo": "The-Grate/Graze",
+        "download": "https://github.com/The-Graze/Grate/releases/download/1.6.0/Grate.dll"
+    },
 ]
