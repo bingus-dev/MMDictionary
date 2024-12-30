@@ -100,4 +100,15 @@
         "repo": "zaynethedev/Index",
         "download": "https://github.com/zaynethedev/Index/releases/download/v1.0.0/Index.dll"
     },
+    {
+        "name": "GroundZ3R0's CamGUI",
+        "author": "GroundZ3R0",
+        "filenames": [
+            "GroundZ3R0s.CamGUI.dll"
+        ],
+        "keyword": "GroundZ3R0s.CamGUI",
+        "type": "Mod",
+        "repo": "9r0undZ3R0/GroundZ3R0s-CamGUI",
+        "download": "https://github.com/9r0undZ3R0/GroundZ3R0s-CamGUI/releases/download/1.0/GroundZ3R0s.CamGUI.dll"
+    },
 ]
