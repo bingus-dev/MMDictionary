@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Test Mod",
+        "author": "AJ & Big Justice",
+        "filenames": [
+            "rizz.dll"
+        ],
+        "keyword": "Bark",
+        "type": "Mod",
+        "repo": "rizz/rizz",
+        "download": "https://github.com/KyleTheScientist/Bark/releases/download/v1.5.1/Bark-1.5.1.dll"
+    },
+]
