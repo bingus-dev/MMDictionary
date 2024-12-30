@@ -21,18 +21,6 @@
         "type": "Library",
         "repo": "legoandmars/Utilla"
     },
-  {
-        "name": "B-Pro",
-        "author": "BuzzThe18th",
-        "filenames": [
-            "B-Pro.dll",
-            "tcxaEl9.dll",
-            "BeePro.dll"
-        ],
-        "keyword": "BeePro",
-        "type": "Mod",
-        "repo": "EXC_PRIVATE"
-    },
     {
         "name": "Yizzi's Camera Mod V2",
         "author": "Yizzi",
