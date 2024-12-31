@@ -21,3 +21,8 @@ NOTE: anything with 3 astericks (```*```) before it is not real syntax, remove i
         "download": "https://link.com/link/link/link", ** Download link to your latest release (.dll or .zip)
 },
 ```
+
+## Add your custom lists
+![image](https://github.com/user-attachments/assets/b44430b0-d6f3-4ad2-baba-b24140847a3b)
+Press "Add" on the Catalogs menu and paste in the link to any valid *.json list. It will be validated on first run to ensure it works without issues.
+If a list causes MM to crash, you can remove it manually with the ``lists.txt`` file in your Documents folder. lists.txt ignores comments ``#``.
