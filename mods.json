@@ -1,18 +1,5 @@
 [
     {
-        "name": "Bark",
-        "author": "KyleTheScientist",
-        "filenames": [
-            "Bark.dll",
-            "Bark-1.0.0.dll",
-            "Bark-1.5.1.dll"
-        ],
-        "keyword": "Bark",
-        "type": "Mod",
-        "repo": "KyleTheScientist/Bark",
-        "download": "https://github.com/KyleTheScientist/Bark/releases/download/v1.5.1/Bark-1.5.1.dll"
-    },
-    {
         "name": "Utilla",
         "author": "legoandmars & Developer9998",
         "filenames": [
