@@ -1,5 +1,16 @@
 [
     {
+        "name": "BepInEx",
+        "author": "BepInEx",
+        "filenames": [
+            "uhh... uhh... .wav"
+        ],
+        "keyword": "BepInEx",
+        "type": "Library",
+        "repo": "BepInEx/BepInEx",
+        "download": "https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.2"
+    },
+    {
         "name": "Utilla",
         "author": "legoandmars & Developer9998",
         "filenames": [
