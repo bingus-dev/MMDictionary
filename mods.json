@@ -43,4 +43,16 @@
         "repo": "Mathijs-Bakker/Extenject",
         "download": "https://github.com/Auros/Bepinject/releases/download/1.0.1/Extenject.zip"
     },
+    {
+        "name": "OculusReportMenu",
+        "author": "OatSalmon",
+        "filenames": [
+            "OculusReportMenu.dll",
+            "vive-report.dll"
+        ],
+        "keyword": "OculusReportMenu",
+        "type": "Mod",
+        "repo": "oatsalmon/OculusReportMenu",
+        "download": "https://github.com/oatsalmon/OculusReportMenu/releases/download/1.0.6/OculusReportMenu.dll"
+    },
 ]
