@@ -45,14 +45,14 @@
     },
     {
         "name": "OculusReportMenu",
-        "author": "OatSalmon",
+        "author": "stickmaster10",
         "filenames": [
             "OculusReportMenu.dll",
             "vive-report.dll"
         ],
         "keyword": "OculusReportMenu",
         "type": "Mod",
-        "repo": "oatsalmon/OculusReportMenu",
-        "download": "https://github.com/oatsalmon/OculusReportMenu/releases/download/1.0.6/OculusReportMenu.dll"
+        "repo": "stickmaster10/OculusReportMenu",
+        "download": "https://github.com/stickmaster10/OculusReportMenu/releases/download/1.0.6/OculusReportMenu.dll"
     },
 ]
