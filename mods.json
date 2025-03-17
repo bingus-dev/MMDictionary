@@ -45,14 +45,14 @@
     },
     {
         "name": "OculusReportMenu",
-        "author": "stickmaster10",
+        "author": "Bingus Bingusington",
         "filenames": [
             "OculusReportMenu.dll",
             "vive-report.dll"
         ],
         "keyword": "OculusReportMenu",
         "type": "Mod",
-        "repo": "stickmaster10/OculusReportMenu",
-        "download": "https://github.com/stickmaster10/OculusReportMenu/releases/download/1.1.0/OculusReportMenu.dll"
+        "repo": "bingus-dev/OculusReportMenu",
+        "download": "https://github.com/bingus-dev/OculusReportMenu/releases/download/1.1.1/OculusReportMenu.dll"
     },
 ]
